@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi, I'm Abdul Wahab 👋
 
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Abdul Wahab, a freelance Web Developer, and a CS student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
+ I'm a freelance Web Developer, and a CS student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
 
-## My Skills (Specialty in Front-End Development)
+### My Skills (Specialty in Front-End Development)
 1)	Html (Advance)
 2)	Css & Sass (Advance)
 3)	JavaScript (Intermediate)
