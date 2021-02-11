@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Wahab3917/Wahab3917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm Abdul Wahab, a freelance Web Developer, and a CS student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills (Specialty in Front-End Development)
+1)	Html (Advance)
+2)	Css & Sass (Advance)
+3)	JavaScript (Intermediate)
+4)	Bootstrap (Advance)
+5)	WordPress (Intermediate)
+6)  WordPress Custom Theme Development (Basic)
+7)  Php	(Basic)
+8)	Git Version Control & Github (Intermediate)
+
+#### DESIGNING SKILLS
+1)  Adobe Photoshop (Intermediate)
+2)	Figma (Intermediate)
+
+#### OTHER SKILLS
+1)  Website’s SEO
+2)	Website’s Speed Optimization
+
