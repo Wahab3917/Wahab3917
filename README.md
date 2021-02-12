@@ -1,6 +1,6 @@
 ### Hi, I'm Abdul Wahab 👋
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Wahab3917/Wahab3917/blob/main/banner.png)
 
  I'm a freelance Web Developer, and a CS student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
 
