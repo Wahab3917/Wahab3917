@@ -4,7 +4,7 @@
 
  I'm a freelance Web Developer, and a CS student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
 
-### My Skills (Specialty in Front-End Development) 💻🚀
+### My Skills (Specialty in Front-End Development)
 1) Html (Advance)
 2)	Css & Sass (Advance)
 3)	JavaScript (Intermediate)
@@ -14,11 +14,11 @@
 7) Php	(Basic)
 8)	Git Version Control & Github (Intermediate)
 
-#### DESIGNING SKILLS ✨
+#### DESIGNING SKILLS
 1) Adobe Photoshop (Intermediate)
 2)	Figma (Intermediate)
 
-#### OTHER SKILLS 👈
+#### OTHER SKILLS
 1) Website’s SEO
 2)	Website’s Speed Optimization
 
