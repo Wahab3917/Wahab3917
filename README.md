@@ -2,7 +2,7 @@
 
 ![](https://github.com/Wahab3917/Wahab3917/blob/main/banner.png)
 
- I'm a freelance Web Developer, and a CS student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
+ I'm a Freelance Web Developer, and a CS Student. I enjoy working in JavaScript, Html, Css, WordPress, and I also have a good taste in Designing. Currently learning React.js.
 
 ### My Skills (Specialty in Front-End Development)
 1) Html (Advance)
